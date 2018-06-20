@@ -29,3 +29,5 @@
 
 [https://toolchain.gitbook.com/](https://toolchain.gitbook.com/ "О gitbook утилите")
 
+[https://legacy.gitbook.com/book/frontendmasters/front-end-handbook/details](https://legacy.gitbook.com/book/frontendmasters/front-end-handbook/details "Пример книги по форонту")
+
