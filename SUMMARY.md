@@ -1,5 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Glossary](GLOSSARY.md)
+* [Introduction](./README.md)
+* [Слои](./layers.md)
+* [Глоссарий](./GLOSSARY.md)
 
