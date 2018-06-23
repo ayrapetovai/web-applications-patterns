@@ -2,9 +2,7 @@
 
 * [Introduction](./README.md)
 * [Слои](./layers.md)
-
-* Авторизация
-
+* [Авторизация](./аuthorization.md)
 * [Глоссарий](./GLOSSARY.md)
 
 
